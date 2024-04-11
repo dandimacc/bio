@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Area Sales Promotion Spv", "Business Executive", "Senior Account Manager"],
+        strings: ["Business Executive", "Senior Key Account Manager"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Area Sales Promotion Spv", "Business Executive", "Senior Account Manager"],
+        strings: ["Business Executive", "Senior Key Account Manager"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
