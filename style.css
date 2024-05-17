@@ -384,7 +384,7 @@ section .title::after{
 .skills-content .right .retention::before{
     width: 80%;
 }
-.skills-content .right .planning::before{
+.skills-content .right .event::before{
     width: 70%;
 }
 .skills-content .right .skills::before{
