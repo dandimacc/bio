@@ -387,9 +387,6 @@ section .title::after{
 .skills-content .right .event::before{
     width: 70%;
 }
-.skills-content .right .analyst::before{
-    width: 80%;
-}
 .skills-content .right .research::before{
     width: 80%;
 }
