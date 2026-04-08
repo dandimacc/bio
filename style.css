@@ -43,7 +43,7 @@ section{
 .skills .skills-content,
 .contact .contact-content{
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     align-items: center;
     justify-content: space-between;
 }
