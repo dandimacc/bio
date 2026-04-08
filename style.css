@@ -373,10 +373,10 @@ section .title::after{
     width: 80%;
 }
 .skills-content .right .management::before{
-    width: 70%;
+    width: 80%;
 }
 .skills-content .right .distribution::before{
-    width: 80%;
+    width: 70%;
 }
 .skills-content .right .team::before{
     width: 80%;
