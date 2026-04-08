@@ -366,19 +366,19 @@ section .title::after{
 .skills-content .right .development::before{
     width: 90%;
 }
-.skills-content .right .marketing management::before{
+.skills-content .right .marketing::before{
     width: 80%;
 }
 .skills-content .right .operation::before{
     width: 80%;
 }
-.skills-content .right .project::before{
+.skills-content .right .management::before{
     width: 70%;
 }
 .skills-content .right .distribution::before{
     width: 80%;
 }
-.skills-content .right .management::before{
+.skills-content .right .team::before{
     width: 80%;
 }
 .skills-content .right .retention::before{
