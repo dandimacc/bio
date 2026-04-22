@@ -366,29 +366,29 @@ section .title::after{
 .skills-content .right .development::before{
     width: 90%;
 }
-.skills-content .right .marketing::before{
+.skills-content .right .retention::before{
+    width: 90%;
+}
+.skills-content .right .strategy::before{
     width: 80%;
 }
 .skills-content .right .operation::before{
     width: 80%;
 }
-.skills-content .right .management::before{
+.skills-content .right .driven::before{
     width: 80%;
 }
 .skills-content .right .distribution::before{
-    width: 70%;
+    width: 80%;
+}
+.skills-content .right .project::before{
+    width: 80%;
 }
 .skills-content .right .team::before{
     width: 80%;
 }
-.skills-content .right .retention::before{
-    width: 90%;
-}
 .skills-content .right .event::before{
     width: 70%;
-}
-.skills-content .right .research::before{
-    width: 80%;
 }
 
 /* teams section styling */
